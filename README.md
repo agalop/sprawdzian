@@ -1,0 +1,2 @@
+# sprawdzian
+sprawdzian moich umiejetnosci
